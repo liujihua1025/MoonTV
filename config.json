@@ -1,6 +1,6 @@
 {
   "cache_time": 7200,
-  "api"_site": {
+  "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
