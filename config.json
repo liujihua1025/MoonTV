@@ -6,18 +6,6 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "jymd": {
-      "api": "https://91md.me/api.php/provide/vod",
-      "name": "91|AV",
-    },
-      "lbapi": {
-      "api": "http://lbapiby.com/api.php/provide/vod/at/json",
-      "name": "AIvin|AV",
-    },
-    "yutu": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "name": "玉兔资源|AV",
-    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
@@ -66,11 +54,11 @@
       "name": "魔爪资源"
     },
     "mdzy": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "api": "https://91md.me/api.php/provide/vod",
       "name": "魔都资源"
     },
     "zuid": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "api": "http://lbapiby.com/api.php/provide/vod/at/json",
       "name": "最大资源"
     },
     "yinghua": {
@@ -82,7 +70,7 @@
       "name": "无尽资源"
     },
     "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
+      "api": "https://apiyutu.com/api.php/provide/vod",
       "name": "旺旺短剧"
     },
     "ikun": {
