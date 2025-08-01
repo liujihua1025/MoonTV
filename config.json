@@ -64,7 +64,7 @@
     },
     "aosika": {
       "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
-      "name": '奥斯卡资源|AV',
+      "name": "奥斯卡资源|AV",
 	  "adult": true
     },
    "slzy": {
@@ -84,7 +84,7 @@
     },
     "msnzy": {
       "api": "https://www.msnii.com/api/xml.php",
-      "name": '"美少女资源|AV",
+      "name": "美少女资源|AV",
 	  "adult": true
     },
     "ysjzy":{
@@ -134,7 +134,7 @@
     },
     "jingpin": {
       "api": "https://www.jingpinx.com/api.php/provide/vod",
-      "name": '精品资源|AV',
+      "name": "精品资源|AV",
 	  "adult": true
     },
     "pgxdy": {
