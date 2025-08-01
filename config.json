@@ -148,11 +148,11 @@
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api: "http://cj.rycjapi.com/"api".php/provide/vod",
+      "api: "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
     "bfzy": {
-      "api: "https://bfzyapi.com/"api".php/provide/vod",
+      "api: "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
     "tyyszy": {
@@ -177,7 +177,7 @@
       "name": "卧龙资源"
     },
     "jisu": {
-      "api: "https://jszyapi.com/"api".php/provide/vod",
+      "api: "https://jszyapi.com/api.php/provide/vod",
       "name": "极速资源",
       "detail": "https://jszyapi.com"
     },
