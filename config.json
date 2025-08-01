@@ -138,7 +138,7 @@
 	  "adult": true
     },
     "pgxdy": {
-      "api": "https://www.pgxdy.com/"api"/xml.php",
+      "api": "https://www.pgxdy.com/api/xml.php",
       "name": "黄AV资源",
 	  "adult": true
     },
@@ -190,11 +190,11 @@
       "name": "魔爪资源"
     },
     "mdzy": {
-      "api: "https://www.mdzyapi.com/"api".php/provide/vod",
+      "api: "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
     },
     "zuid": {
-      "api: "https://api.zuidapi.com/"api".php/provide/vod",
+      "api: "https://api.zuidapi.com/api.php/provide/vod",
       "name": "最大资源"
     },
     "yinghua": {
