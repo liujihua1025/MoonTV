@@ -7,7 +7,7 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
       "ckzy": {
-         "api": 'https://www.ckzy1.com',
+         "api": "https://www.ckzy1.com",
          "name": 'CK资源',
          "adult": true
      },
