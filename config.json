@@ -48,7 +48,7 @@
          "adult": true
      },
     "yutu": {
-      "api": "https://apiyutu.com/"api".php/provide/vod",
+      "api": "https://apiyutu.com/api.php/provide/vod",
       "name": "玉兔资源|AV",
 	  "adult": true
     },
@@ -63,7 +63,7 @@
 	  "adult": true
     },
     "aosika": {
-      "api": 'https://aosikazy.com/api.php/provide/vod/at/xml',
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
       "name": '奥斯卡资源|AV',
 	  "adult": true
     },
